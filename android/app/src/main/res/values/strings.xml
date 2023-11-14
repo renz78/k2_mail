@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">k2mail</string>
+    <string name="title_activity_main">k2mail</string>
+    <string name="package_name">eu.corp2.k2mail</string>
+    <string name="custom_url_scheme">eu.corp2.k2mail</string>
+</resources>
